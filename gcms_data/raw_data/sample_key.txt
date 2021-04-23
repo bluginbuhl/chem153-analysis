@@ -1,0 +1,7 @@
+file,sample
+C153AC1A,standard_1
+C153AC2A,standard_2
+C153AC3A,standard_3
+C153AG1,gasoline_1
+C153AG2,gasoline_2
+C153AG3,gasoline_3

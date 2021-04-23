@@ -1,0 +1,4 @@
+!   G1032C Version C.03 Copyright (c) Hewlett-Packard 1996
+Name ENVVERSION
+  ENVMETHVER = 3.09
+remove envversion

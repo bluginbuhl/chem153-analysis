@@ -1,0 +1,5 @@
+Name CustomParams
+  PrintCustReport=0
+  LogtoDB=0
+  LogtoCS=0
+  return

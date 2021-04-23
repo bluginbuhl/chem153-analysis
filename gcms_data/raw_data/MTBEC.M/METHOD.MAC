@@ -1,0 +1,5 @@
+NAME METHINFO
+  EditMethPanel 1,1,0
+  MethInfoPanel 0,0,1,0,0,"",""
+  METHCOMMENT0$ = "50 to 300 @ 10/min"
+  REMOVE METHINFO

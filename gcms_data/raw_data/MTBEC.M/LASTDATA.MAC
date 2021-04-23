@@ -1,0 +1,6 @@
+Name LastDataFile
+  LastDataPath$ = "C:\HPCHEM\1\DATA\" 
+  LastDataFile$ = "CH153L_9.D" 
+  LastDataSize  = 50000
+  remove LastDataFile
+  return

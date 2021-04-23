@@ -1,0 +1,43 @@
+C:\HPCHEM\1\METHODS\DEFAULT.M\Audit.txt 
+Created Thu Jul 30 09:05:56 1998
+
+
+ Modified : Thu Jul 30 09:05:56 1998
+ Event    : Save Method
+ Message  : Save Method from File menu.
+ User     : Sequence:  Report Manager
+ Why      : Sequence 
+ Severity : 1
+
+
+ Modified : Thu Jul 30 09:15:49 1998
+ Event    : Save Method
+ Message  : Save Method from File menu.
+ User     : Sequence:  Report Manager
+ Why      : Sequence 
+ Severity : 1
+
+
+ Modified : Thu Jul 30 09:16:58 1998
+ Event    : Save Method
+ Message  : Save Method from File menu.
+ User     : Sequence:  Report Manager
+ Why      : Sequence 
+ Severity : 1
+
+
+ Modified : Thu Jul 30 09:45:41 1998
+ Event    : Save Method
+ Message  : Save Method from File menu.
+ User     : Sequence:  Report Manager
+ Why      : Sequence 
+ Severity : 1
+
+
+ Modified : Thu Jul 30 16:11:34 1998
+ Event    : Save Method
+ Message  : Save Method from File menu.
+ User     : Sequence:  Report Manager
+ Why      : Sequence 
+ Severity : 1
+
