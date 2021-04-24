@@ -5,3 +5,9 @@ Python code for processing and analysis of GC-MS and HPLC data for the UCSB cour
 ## Requirements
 
 Python >=3.8
+
+Create a `conda` environment named `env` (name it whatever you want) for this project by running
+
+```
+conda create --name <env> --file requirements.txt
+```
