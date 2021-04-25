@@ -95,6 +95,8 @@ env.bak/
 venv.bak/
 pythonenv*
 
+config.json
+
 # mkdocs documentation
 /site
 
